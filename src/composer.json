@@ -134,5 +134,9 @@
             "php ../bin/console orm:generate-proxies",
             "php ../bin/console cache:clear"
         ]
-    }
+    },
+    "config": {
+    
+            "platform-check": false
+        }
 }
