@@ -36,7 +36,7 @@ class Conf
             $this->dbName = 'hrmsphp';
         }
         $this->dbUser = 'root';
-        $this->dbPass = 'mysql@8988';
+        $this->dbPass = 'Sql@112762';
     }
 
     /**
